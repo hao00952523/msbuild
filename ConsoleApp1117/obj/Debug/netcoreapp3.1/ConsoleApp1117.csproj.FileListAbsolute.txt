@@ -1,0 +1,14 @@
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\bin\Debug\netcoreapp3.1\ConsoleApp1117.exe
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\bin\Debug\netcoreapp3.1\ConsoleApp1117.deps.json
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\bin\Debug\netcoreapp3.1\ConsoleApp1117.runtimeconfig.json
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\bin\Debug\netcoreapp3.1\ConsoleApp1117.runtimeconfig.dev.json
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\bin\Debug\netcoreapp3.1\ConsoleApp1117.dll
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\bin\Debug\netcoreapp3.1\ConsoleApp1117.pdb
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.csproj.AssemblyReference.cache
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.AssemblyInfoInputs.cache
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.AssemblyInfo.cs
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.csproj.CoreCompileInputs.cache
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.dll
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.pdb
+C:\Users\101_test_pc\source\repos\ConsoleApp1117\ConsoleApp1117\obj\Debug\netcoreapp3.1\ConsoleApp1117.genruntimeconfig.cache
