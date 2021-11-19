@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dYhE+gEIY7wy+HNzXUNAAnFI/jKy3Au924Z+WM7BtHru8I5MTd58Y9BFJIMjOCFKTzQGBpnpRa0yOLXsimF+w==",
+  "dgSpecHash": "aASnHR986zgB/dgTvT+sTp2MEZp9ot0ToqzHTW8qFfaOLfHWVmyN7eBr/TuC//nfF8NC3AAdzNUVUS5R+DCCRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\101_test_pc\\source\\repos\\ConsoleApp1117\\ConsoleApp1117\\ConsoleApp1117.csproj",
+  "projectFilePath": "C:\\Users\\101_test_pc\\Source\\Repos\\msbuild\\ConsoleApp1117\\ConsoleApp1117.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
