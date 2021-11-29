@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aASnHR986zgB/dgTvT+sTp2MEZp9ot0ToqzHTW8qFfaOLfHWVmyN7eBr/TuC//nfF8NC3AAdzNUVUS5R+DCCRg==",
+  "dgSpecHash": "YfNvkvrkWP5hawIIziu3qQZ7tMS5ZA1H0eoIMtmJbtfu8Lkm85TTxMtfmRmKKb5d8SpUWdQO5eAkKWjfPY1jjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\101_test_pc\\Source\\Repos\\msbuild\\ConsoleApp1117\\ConsoleApp1117.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\101_test_pc\\source\\repos\\msbuild\\ConsoleApp1117\\ConsoleApp1117.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\101_test_pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }
