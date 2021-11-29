@@ -20,4 +20,4 @@ RUN dotnet publish "ConsoleApp1117.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "ConsoleApp1117.dll"]
+ENTRYPOINT ["dotnet", "consoleapp1117.dll"]
